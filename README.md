@@ -1,4 +1,4 @@
-[![MasterHead](https://rightprompt.ai/images/banner5.gif)]
+![MasterHead](https://rightprompt.ai/images/banner5.gif)
 <h1 align="center">Hi 👋, I'm Shashika Janith Liyanage</h1>
 <h3 align="center">A passionate Artificial Intelligence & Machine Learning Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://usv.edu/wp-content/uploads/2023/09/USV_23-10_How-Will-AI-Effect-the-Gaming-Industry_Blog-Graphic_v1-1.jpg"/>
