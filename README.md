@@ -1,4 +1,4 @@
-[![MasterHead](https://rightprompt.ai/images/banner5.gif)]
+![MasterHead](https://rightprompt.ai/images/banner5.gif)
 
 <h1 align="center">Hi 👋, I'm Shashika Janith Liyanage</h1>
 <h3 align="center">A passionate Artificial Intelligence & Machine Learning Engineer</h3>
